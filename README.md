@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OswinOswald06
-- 👀 I’m interested in Excel, Python and SQL. Im A seasoned Chef and want to make the jump to Data Analytics. 
-- 🌱 I’m currently learning Python, SQL and VBA.
+- 👀 I’m interested in Salesforce, Python and SQL. Im A seasoned Chef with a flare for Data. 
+- 🌱 I’m currently learning Python & SQL.
 - 💞️ I’m looking to collaborate on Excel. 
 - 📫 How to reach me Email: Laxpla29@aol.com
 
